@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-topic"
+  FileSearchable="false"
+  MasterPage="file:///C:/Users/PC-2022/Documents/My Projects/VeligoGuideTouristiqueAideEnLignev2/Content/Resources/TemplatePages/Home-Page.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/veligo idf final logo.png" />
+    <Link
+      Url="Content/Resources/Images/jo2024Paris-2024-19_10_18-Emblemes_Poly_Pod_RVB.png" />
+    <Link
+      Url="https://www.paris2024.org/fr/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/veligo idf final logo.png" />
+    <Link
+      Url="Content/Resources/Images/jo2024Paris-2024-19_10_18-Emblemes_Poly_Pod_RVB.png" />
+    <Link
+      Url="https://www.paris2024.org/fr/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.Product 1" />
+    <Variable
+      Name="General.CompanyName" />
+    <Variable
+      Name="General.CompanyName2" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

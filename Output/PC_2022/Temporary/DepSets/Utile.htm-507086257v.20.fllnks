@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Alternate-Row-Color.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/gilet-de-securite-156-6-371887.png" />
+    <Link
+      Url="Content/Accessoires.htm" />
+    <Link
+      Url="Content/Utile.htm" />
+    <Link
+      Url="Content/Resources/Images/paris carte travaux live.PNG" />
+    <Link
+      Url="http://www.sytadin.fr/" />
+    <Link
+      Url="https://www.meteo-paris.com/" />
+    <Link
+      Url="https://www.evous.fr/Votre-semaine-a-Paris.html" />
+    <Link
+      Url="https://www.paris.fr/pages/travaux-trafic-fermetures-41" />
+    <Link
+      Url="Content/Resources/Images/maintenance_man-removebg-preview.png" />
+    <Link
+      Url="https://www.veligo-location.fr/entretien-et-reparations/" />
+    <Link
+      Url="https://www.veligo-location.fr/contact/" />
+    <Link
+      Url="Content/Resources/Snippets/Veligo coordonnées.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Alternate-Row-Color.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/gilet-de-securite-156-6-371887.png" />
+    <Link
+      Url="Content/Accessoires.htm" />
+    <Link
+      Url="Content/Accessoires.htm#La" />
+    <Link
+      Url="Content/Utile.htm#En" />
+    <Link
+      Url="Content/Resources/Images/paris carte travaux live.PNG" />
+    <Link
+      Url="http://www.sytadin.fr/" />
+    <Link
+      Url="https://www.meteo-paris.com/" />
+    <Link
+      Url="Content/Accessoires.htm#En" />
+    <Link
+      Url="https://www.evous.fr/Votre-semaine-a-Paris.html" />
+    <Link
+      Url="https://www.paris.fr/pages/travaux-trafic-fermetures-41" />
+    <Link
+      Url="https://www.paris.fr/pages/travaux-trafic-fermetures-41#recevez-les-alertes-par-email" />
+    <Link
+      Url="Content/Resources/Images/maintenance_man-removebg-preview.png" />
+    <Link
+      Url="https://www.veligo-location.fr/entretien-et-reparations/" />
+    <Link
+      Url="https://www.veligo-location.fr/contact/" />
+    <Link
+      Url="Content/Resources/Snippets/Veligo coordonnées.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Sécurité" />
+    <Anchor
+      Name="Infos" />
+    <Anchor
+      Name="En" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.Author2" />
+    <Variable
+      Name="General.Theme1" />
+    <Variable
+      Name="General.Theme2" />
+    <Variable
+      Name="General.Theme3" />
+    <Variable
+      Name="General.Theme4" />
+    <Variable
+      Name="General.CompanyName" />
+    <Variable
+      Name="General.Product 1" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Alternate-Row-Color.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

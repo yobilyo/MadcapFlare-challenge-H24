@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Véligo Location">Véligo Location</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="+(33)9 69 36 96 30 (service gratuit + prix d'un appel)">+(33)9 69 36 96 30 (service gratuit + prix d'un appel)</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2018-01-16T08:02:20.5245049-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Updated"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2018-06-07T11:23:57.7806534-07:00"
+    EvaluatedDefinition="dddd dd MMMM yyyy">dddd dd MMMM yyyy</Variable>
+  <Variable
+    Name="Product 1"
+    Comment=""
+    EvaluatedDefinition="Véligo">Véligo</Variable>
+  <Variable
+    Name="Facebook"
+    Comment=""
+    EvaluatedDefinition="https://www.facebook.com/veligolocation/">https://www.facebook.com/veligolocation/</Variable>
+  <Variable
+    Name="Twitter"
+    Comment=""
+    EvaluatedDefinition="https://twitter.com/Veligo_Loc?lang=fr">https://twitter.com/Veligo_Loc?lang=fr</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    EvaluatedDefinition="94200 Ivry-sur-Seine">94200 Ivry-sur-Seine</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    EvaluatedDefinition="Fluow, Carré Ivry - Bâtiment B2, 22 rue Robert Witchitz">Fluow, Carré Ivry - Bâtiment B2, 22 rue Robert Witchitz</Variable>
+  <Variable
+    Name="Instagram"
+    Comment=""
+    EvaluatedDefinition="https://www.instagram.com/veligo_loc/?hl=fr">https://www.instagram.com/veligo_loc/?hl=fr</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    EvaluatedDefinition="Véligo (Location Longue Durée)">Véligo (Location Longue Durée)</Variable>
+  <Variable
+    Name="Author1"
+    Comment=""
+    EvaluatedDefinition="Yves Descordes">Yves Descordes</Variable>
+  <Variable
+    Name="Author2"
+    Comment=""
+    EvaluatedDefinition="Céline Autou">Céline Autou</Variable>
+  <Variable
+    Name="Theme1"
+    Comment=""
+    EvaluatedDefinition="Sécurité">Sécurité</Variable>
+  <Variable
+    Name="Theme2"
+    Comment=""
+    EvaluatedDefinition="Confort">Confort</Variable>
+  <Variable
+    Name="Theme3"
+    Comment=""
+    EvaluatedDefinition="Entretien">Entretien</Variable>
+  <Variable
+    Name="Theme4"
+    Comment=""
+    EvaluatedDefinition="Social Media">Social Media</Variable>
+  <Variable
+    Name="CompanyName2"
+    Comment=""
+    EvaluatedDefinition="Région Île-de-France">Région Île-de-France</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    EvaluatedDefinition="https://www.veligo-location.fr/">https://www.veligo-location.fr/</Variable>
+</CatapultVariableSet>

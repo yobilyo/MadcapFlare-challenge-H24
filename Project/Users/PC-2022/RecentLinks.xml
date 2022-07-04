@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\PC-2022\Documents\My Projects\VeligoGuideTouristiqueAideEnLignev2\Content\Resources\Images\Minus.png" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\PC-2022\Documents\My Projects\VeligoGuideTouristiqueAideEnLignev2\Content\Resources\Snippets\EmailMailTo.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\PC-2022\Documents\My Projects\VeligoGuideTouristiqueAideEnLignev2\Content\Accessoires.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+</RecentLinks>

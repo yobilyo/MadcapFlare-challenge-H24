@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/accessoires velo.jpg" />
+    <Link
+      Url="Content/Resources/Snippets/Equipement1.flsnp" />
+    <Link
+      Url="Content/Resources/Images/header-image-casque.png" />
+    <Link
+      Url="Content/Resources/Images/gilet-de-securite-156-6-371887.png" />
+    <Link
+      Url="Content/Resources/Images/cristaline-eau-de-source.jpg" />
+    <Link
+      Url="Content/Resources/Images/sefr_1495d_03_std.lang.all.jpg" />
+    <Link
+      Url="Content/Resources/Snippets/Equipement2.flsnp" />
+    <Link
+      Url="Content/Resources/Images/header-image-siege-enfant.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/accessoires velo.jpg" />
+    <Link
+      Url="Content/Resources/Snippets/Equipement1.flsnp" />
+    <Link
+      Url="Content/Resources/Images/header-image-casque.png" />
+    <Link
+      Url="Content/Resources/Images/gilet-de-securite-156-6-371887.png" />
+    <Link
+      Url="Content/Resources/Images/cristaline-eau-de-source.jpg" />
+    <Link
+      Url="Content/Resources/Images/sefr_1495d_03_std.lang.all.jpg" />
+    <Link
+      Url="Content/Resources/Snippets/Equipement2.flsnp" />
+    <Link
+      Url="Content/Resources/Images/header-image-siege-enfant.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.Author1" />
+    <Variable
+      Name="General.Theme1" />
+    <Variable
+      Name="General.Theme4" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

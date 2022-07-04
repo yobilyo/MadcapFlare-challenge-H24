@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+		<span>
+			<!-- <img class="socialLogo" src="../Images/red-email-icon-png-png-image-732616.png" alt="red email logo" /> -->
+			<!-- <img class="socialLogo" src="../Images/red-email-icon-png-png-image-732616-removebg-preview.png" alt="red email logo" /> -->
+			<a class="rawSnippetMail" href="mailto:contact@veligo-location.fr?subject=Demande de renseignement" title="Notre adresse email, pour toute question n'hésitez pas à nous contacter." alt="adresse email de veligo location" style="color: #000000;">contact@veligo-location.fr</a>
+		</span>
+    </body>
+</html>

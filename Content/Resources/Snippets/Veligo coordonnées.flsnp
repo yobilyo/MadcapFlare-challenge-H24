@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="home-footer">
+            <table style="width: 100%;">
+                <col />
+                <col />
+                <tbody>
+                    <tr>
+                        <td>
+                            <p class="footer">
+                                <MadCap:snippetText src="EmailMailToWhite.flsnp" />
+                            </p>
+                            <p class="footer"><MadCap:variable name="General.PhoneNumber" />
+                            </p>
+                            <p class="footer"><MadCap:variable name="General.StreetAddress" />
+                            </p>
+                            <p class="footer"><MadCap:variable name="General.CityStateZip" />
+                            </p><span>
+									<a href="[%=General.Website%]" alt="Website logo with link">
+										<img class="socialLogo" src="../Images/www-icon-website-symbol-vector-20519626-removebg-preview.png" alt="twitter logo" />
+									</a>
+									<a href="[%=General.Twitter%]" alt="Twitter logo with link">
+										<img class="socialLogo" src="../Images/logo-twitter-habitat44.png" alt="twitter logo" />
+									</a>
+									<a href="[%=General.Facebook%]" alt="Facebook logo with link">
+										<img class="socialLogo" src="../Images/Facebook_f_logo__2019_.svg.png" alt="twitter logo" />
+									</a>
+									<a href="[%=General.Instagram%]" alt="Instagram logo with link">
+										<img class="socialLogo" src="../Images/instagram-logo-5744708_1280.png" alt="twitter logo" />
+									</a>
+								</span>
+                            <p class="footer-sub">Créé avec MadCap&#160;Flare</p>
+                        </td>
+                        <td>
+                            <img src="../Images/Logo.png" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

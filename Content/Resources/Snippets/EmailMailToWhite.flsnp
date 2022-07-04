@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <!-- why snippet may work out just better than variable for email mailto
+		https://forums.madcapsoftware.com/viewtopic.php?f=13&t=31516 -->
+        <!-- pourquoi il y a 2 snippets mailTo
+		le 1er Snippet est le mailTo générique (indépendamment de la couleur, c'est celui qu'on utilisera dans
+		les articles par exemple il inherit sa couleur telle que spécifiée par les blocs parents ou les conditions
+		de formattage locales
+		
+		le 2ème Snippet (mailtoWhite est un sous-type dérivé de mailto principal, donc un changement de contenu du 1er
+		sera automatiquement appliqué dans le 2ème
+		la différence est que dans certains cas (tels que dans le template home page, les liens ont une couleur forcée
+		bleue indépendamment du CSS personnalisé qu'on ajoute dans Styles.css.
+		La solution est donc de créer ce sous-snippet et de lui appliquer la couleur white via l'interface de madcap flare
+		(menu Home)
+		
+		Ainsi on peut utiliser des liens mailto couleur par défaut pour toutes les pages, et des liens mailto white si souhaité
+		et si on veut changer le contenu du 1er mailto le 2ème sera adapté automatiquement !!
+		-->
+		
+		<!-- <img class="socialLogo" src="../Images/red-email-icon-png-png-image-732616.png" alt="red email logo" /> -->
+		<!-- <img class="socialLogo" src="../Images/red-email-icon-png-png-image-732616-removebg-preview.png" alt="red email logo" /> -->
+        <p> <a href="mailto:contact@veligo-location.fr?subject=Demande de renseignement" title="Notre adresse email, pour toute question n'hésitez pas à nous contacter." alt="adresse email de veligo location" style="color: #fffafa;">contact@veligo-location.fr</a></p>
+    </body>
+</html>

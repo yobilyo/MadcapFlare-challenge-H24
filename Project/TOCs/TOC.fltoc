@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="Accueil"
+    Link="/Content/Accueil.htm"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Accessoires.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    ComputedTocAction="Replace"
+    ComputedTocDepth="2"
+    ComputeToc="true"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Utile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    ComputeToc="true"
+    ComputedTocAction="Replace"
+    ComputedTocDepth="2"></TocEntry>
+</CatapultToc>

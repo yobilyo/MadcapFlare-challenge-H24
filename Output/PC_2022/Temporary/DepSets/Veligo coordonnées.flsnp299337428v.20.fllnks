@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/EmailMailToWhite.flsnp" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.veligo-location.fr/" />
+    <Link
+      Url="Content/Resources/Images/www-icon-website-symbol-vector-20519626-removebg-preview.png" />
+    <Link
+      Url="https://twitter.com/Veligo_Loc" />
+    <Link
+      Url="Content/Resources/Images/logo-twitter-habitat44.png" />
+    <Link
+      Url="https://www.facebook.com/veligolocation/" />
+    <Link
+      Url="Content/Resources/Images/Facebook_f_logo__2019_.svg.png" />
+    <Link
+      Url="https://www.instagram.com/veligo_loc/" />
+    <Link
+      Url="Content/Resources/Images/instagram-logo-5744708_1280.png" />
+    <Link
+      Url="Content/Resources/Images/Logo.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/EmailMailToWhite.flsnp" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.veligo-location.fr/" />
+    <Link
+      Url="Content/Resources/Images/www-icon-website-symbol-vector-20519626-removebg-preview.png" />
+    <Link
+      Url="https://twitter.com/Veligo_Loc?lang=fr" />
+    <Link
+      Url="Content/Resources/Images/logo-twitter-habitat44.png" />
+    <Link
+      Url="https://www.facebook.com/veligolocation/" />
+    <Link
+      Url="Content/Resources/Images/Facebook_f_logo__2019_.svg.png" />
+    <Link
+      Url="https://www.instagram.com/veligo_loc/?hl=fr" />
+    <Link
+      Url="Content/Resources/Images/instagram-logo-5744708_1280.png" />
+    <Link
+      Url="Content/Resources/Images/Logo.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.PhoneNumber" />
+    <Variable
+      Name="General.StreetAddress" />
+    <Variable
+      Name="General.CityStateZip" />
+    <Variable
+      Name="General.Website" />
+    <Variable
+      Name="General.Twitter" />
+    <Variable
+      Name="General.Facebook" />
+    <Variable
+      Name="General.Instagram" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
